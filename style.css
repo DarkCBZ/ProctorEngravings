@@ -1,0 +1,6 @@
+.containerCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Adjust this if you want different vertical alignment */
+}
